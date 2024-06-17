@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj": {}
+    "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj": {
+    "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj",
         "projectName": "chat",
-        "projectPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -2256,11 +2256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj",
+      "projectUniqueName": "c:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj",
       "projectName": "chat",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\chat.csproj",
+      "projectPath": "c:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\chat.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\obj\\",
+      "outputPath": "c:\\Users\\pedro\\Desktop\\Programação Aulas\\Projetos Cursos\\chat\\back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
